@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aileibiel.dothiv.hiv/sitemap.xml
